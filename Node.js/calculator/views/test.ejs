@@ -1,0 +1,95 @@
+<!DOCTYPE html> 
+<html> 
+
+<head> 
+	<title>Calculator</title> 
+
+	<!-- For styling -->
+	<style> 
+		table { 
+			border: 1px solid black; 
+			margin-left: auto; 
+			margin-right: auto; 
+		} 
+		
+		input[type="button"] { 
+			width: 100%; 
+			padding: 20px 40px; 
+			background-color: green; 
+			color: white; 
+			font-size: 24px; 
+			font-weight: bold; 
+			border: none; 
+			border-radius: 5px; 
+		} 
+		input[type="submit"] { 
+			width: 100%; 
+			padding: 20px 40px; 
+			background-color: green; 
+			color: white; 
+			font-size: 24px; 
+			font-weight: bold; 
+			border: none; 
+			border-radius: 5px; 
+		} 
+		
+		input[type="text"] { 
+			padding: 20px 30px; 
+			font-size: 24px; 
+			font-weight: bold; 
+			border: none; 
+			border-radius: 5px; 
+			border: 2px solid black; 
+		} 
+	</style> 
+</head> 
+
+<body> 
+
+	<!-- Create table -->
+	<form action="/" method="post">
+	<table id="calcu"> 
+		<tr> 
+			<td colspan="3"> 
+				
+				<input type="text" name="in_string" maxlength="200" size="80"> 
+				
+			</td> 
+			<td><input type="button" value="c"></td> 
+		</tr> 
+
+		<tr> 
+			<td><input type="button" value="1" onclick="add_element(this)"></td> 
+			<td><input type="button" value="2" onclick="add_element(this)"></td> 
+			<td><input type="button" value="3" onclick="add_element(this)"></td> 
+			<td><input type="button" value="/" onclick="add_element(this)"></td> 
+		</tr> 
+		<tr> 
+			<td><input type="button" value="4" onclick="add_element(this)"></td> 
+			<td><input type="button" value="5" onclick="add_element(this)"></td> 
+			<td><input type="button" value="6" onclick="add_element(this)"></td> 
+			<td><input type="button" value="*" onclick="add_element(this)"></td> 
+		</tr> 
+		<tr> 
+			<td><input type="button" value="7" onclick="add_element(this)"></td> 
+			<td><input type="button" value="8" onclick="add_element(this)"></td> 
+			<td><input type="button" value="9" onclick="add_element(this)"></td> 
+			<td><input type="button" value="-" onclick="add_element(this)"></td> 
+		</tr> 
+		<tr> 
+			<td><input type="button" value="0" onclick="add_element(this)"></td> 
+			<td><input type="button" value="." onclick="add_element(this)"></td> 
+			<td><input type="submit" value="="></td> 
+			<td><input type="button" value="+" onclick="add_element(this)"></td> 
+		</tr> 
+	</table> 
+	</form>
+	<script>
+
+	function add_element(button) {
+		alert(button.value);
+	}
+</script>
+</body> 
+
+</html> 

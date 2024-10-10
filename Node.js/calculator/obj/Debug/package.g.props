@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonScriptsTest Condition="$(PackageJsonScriptsTest) == ''">mocha ./Tests/*.test.js</PackageJsonScriptsTest>
+    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">node app.js</PackageJsonScriptsStart>
+    <PackageJsonDependenciesEjs Condition="$(PackageJsonDependenciesEjs) == ''">^3.1.10</PackageJsonDependenciesEjs>
+    <PackageJsonDependenciesExpress Condition="$(PackageJsonDependenciesExpress) == ''">^4.21.0</PackageJsonDependenciesExpress>
+    <PackageJsonDevdependenciesChai Condition="$(PackageJsonDevdependenciesChai) == ''">^5.1.1</PackageJsonDevdependenciesChai>
+    <PackageJsonDevdependenciesMocha Condition="$(PackageJsonDevdependenciesMocha) == ''">^10.7.3</PackageJsonDevdependenciesMocha>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "catch_a_mole", "catch_a_mole.pyproj", "{ED9D4B0A-410C-4CC4-B4DA-D23E7F05E0F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2EE9AE06-3C9F-44CF-929E-8800E4B7DD38}"
+	ProjectSection(SolutionItems) = preProject
+		file.txt = file.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9D4B0A-410C-4CC4-B4DA-D23E7F05E0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9D4B0A-410C-4CC4-B4DA-D23E7F05E0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F20F86D-D0A9-46B0-B186-06FCFBE3FDB2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\tests\\lexical.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:tests\\lexical.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\tests\\calculator.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:tests\\calculator.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\treecalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:treecalculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\lexicalparser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:lexicalparser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\treecreator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:treecreator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|e:\\dropbox\\\u043D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\node.js\\calculator\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99BB063D-46DA-4CEC-98B6-EBDA8BA45FB5}|calculator.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreeCreator.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\TreeCreator.js",
+              "RelativeDocumentMoniker": "TreeCreator.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\TreeCreator.js",
+              "RelativeToolTip": "TreeCreator.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T09:05:02.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculator.test.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\Tests\\calculator.test.js",
+              "RelativeDocumentMoniker": "Tests\\calculator.test.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\Tests\\calculator.test.js",
+              "RelativeToolTip": "Tests\\calculator.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T08:52:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lexical.test.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\Tests\\lexical.test.js",
+              "RelativeDocumentMoniker": "Tests\\lexical.test.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\Tests\\lexical.test.js",
+              "RelativeToolTip": "Tests\\lexical.test.js",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T06:48:47.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T08:52:06.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lexicalParser.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\lexicalParser.js",
+              "RelativeDocumentMoniker": "lexicalParser.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\lexicalParser.js",
+              "RelativeToolTip": "lexicalParser.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T08:06:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "treeCalculator.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\treeCalculator.js",
+              "RelativeDocumentMoniker": "treeCalculator.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\treeCalculator.js",
+              "RelativeToolTip": "treeCalculator.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T07:32:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "calculator.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\calculator.js",
+              "RelativeDocumentMoniker": "calculator.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\calculator.js",
+              "RelativeToolTip": "calculator.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T07:30:12.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "E:\\Dropbox\\\u041D\u0443\u0436\u043D\u044B\u0435 \u0444\u0430\u0439\u043B\u044B\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Node.js\\calculator\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T16:11:34.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
