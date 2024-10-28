@@ -15,8 +15,6 @@ app.get('/', function (request, response) {
 });
 
 app.post('/', urlencodedParser, function (req, res) {
-    console.log(req.method, "has come to server from /");
-    console.log(req.body.in_string);
     if (!req.body) return res.sendStatus(400);
 
     let result;
