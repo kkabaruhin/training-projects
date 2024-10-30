@@ -2,7 +2,7 @@ This is a training project on Node.js using Express for client-server interactio
 The application is a simple calculator with a graphical interface. 
 It supports the operations + - * / //, brackets and abs, sqr, sqrt functions. 
 You can enter expressions of any length with operations in any order, if they are mathematically correct. 
-To run, write in the "node app" in PowerShell and go to http://localhost:3000/ in your browser. 
+To run, write in the "npm install" and after "node app" in PowerShell and go to http://localhost:3000/ in your browser. 
 To run tests, you can enter "npm test".
 
 Ejs is used as views. The motcha module is used for testing. 
