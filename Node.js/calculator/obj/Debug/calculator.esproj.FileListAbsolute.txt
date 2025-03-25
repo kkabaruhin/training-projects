@@ -1,2 +1,0 @@
-E:\Dropbox\Нужные файлы\Учебное программирование\Node.js\calculator\obj\Debug\calculator.esproj.CoreCompileInputs.cache
-C:\Users\Кирилл\Dropbox\Нужные файлы\Учебное программирование\Node.js\calculator\obj\Debug\calculator.esproj.CoreCompileInputs.cache
